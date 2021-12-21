@@ -1,0 +1,4 @@
+#Wed Dec 22 00:13:25 IST 2021
+base.0=/home/ospi/Downloads/AwesomeProject 2/AwesomeProject 2/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
